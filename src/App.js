@@ -31,7 +31,7 @@ export default class App extends React.Component {
   getAscii(e){
     if(e.key.match(/^.$/g))
       return e.key.charCodeAt(0);
-    return "";
+    return "N/A";
   }
   componentDidMount() {
     document.addEventListener("keydown", this.handleKeyPress.bind(this), false);

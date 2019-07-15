@@ -9,7 +9,7 @@ html{
 .App {
   color:var(--text-color);
   width:auto;
-  height:auto;
+  height:100vh;
   text-align: center;
   display:flex;
   align-items:center;
@@ -41,6 +41,13 @@ html{
   background-color: white;
   overflow:hidden;
   margin:15px;
+  border: 1px solid #8a8a8a;
+  box-shadow: 0 7px 26px rgba(0, 0, 0, 0.2);
+  transition: transform 1s, box-shadow 1s;
+}
+.info-block:hover{
+  transform: scale(1.2);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.5);
 }
 .info-header{
   width:100%;
