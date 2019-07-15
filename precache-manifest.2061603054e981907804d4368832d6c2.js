@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1ea99a4b5994be3c3f1590daf893ca5",
+    "revision": "fdc783ac21a6a7b067d4f55692060925",
     "url": "/ascii-value-react/index.html"
   },
   {
-    "revision": "67ad13bf7173dfefa458",
-    "url": "/ascii-value-react/static/css/main.268a158b.chunk.css"
+    "revision": "caf68ed4604289bb05e8",
+    "url": "/ascii-value-react/static/css/main.435e4fa8.chunk.css"
   },
   {
     "revision": "d2d82d68c7df91bb776f",
     "url": "/ascii-value-react/static/js/2.e703e8cc.chunk.js"
   },
   {
-    "revision": "67ad13bf7173dfefa458",
-    "url": "/ascii-value-react/static/js/main.8299bf0c.chunk.js"
+    "revision": "caf68ed4604289bb05e8",
+    "url": "/ascii-value-react/static/js/main.50fad2fb.chunk.js"
   },
   {
     "revision": "ec9c0ce2559a1de36ec3",

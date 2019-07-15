@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ascii-value-react/static/css/main.268a158b.chunk.css",
-    "main.js": "/ascii-value-react/static/js/main.8299bf0c.chunk.js",
-    "main.js.map": "/ascii-value-react/static/js/main.8299bf0c.chunk.js.map",
+    "main.css": "/ascii-value-react/static/css/main.435e4fa8.chunk.css",
+    "main.js": "/ascii-value-react/static/js/main.50fad2fb.chunk.js",
+    "main.js.map": "/ascii-value-react/static/js/main.50fad2fb.chunk.js.map",
     "runtime~main.js": "/ascii-value-react/static/js/runtime~main.5196e199.js",
     "runtime~main.js.map": "/ascii-value-react/static/js/runtime~main.5196e199.js.map",
     "static/js/2.e703e8cc.chunk.js": "/ascii-value-react/static/js/2.e703e8cc.chunk.js",
     "static/js/2.e703e8cc.chunk.js.map": "/ascii-value-react/static/js/2.e703e8cc.chunk.js.map",
     "index.html": "/ascii-value-react/index.html",
-    "precache-manifest.ee6738a47aafa27c77db6eb9b5f4086c.js": "/ascii-value-react/precache-manifest.ee6738a47aafa27c77db6eb9b5f4086c.js",
+    "precache-manifest.2061603054e981907804d4368832d6c2.js": "/ascii-value-react/precache-manifest.2061603054e981907804d4368832d6c2.js",
     "service-worker.js": "/ascii-value-react/service-worker.js",
-    "static/css/main.268a158b.chunk.css.map": "/ascii-value-react/static/css/main.268a158b.chunk.css.map"
+    "static/css/main.435e4fa8.chunk.css.map": "/ascii-value-react/static/css/main.435e4fa8.chunk.css.map"
   }
 }
