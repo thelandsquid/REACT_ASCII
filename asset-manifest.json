@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ascii-value-react/static/css/main.1b5cad32.chunk.css",
+    "main.js": "/ascii-value-react/static/js/main.ea9d61c2.chunk.js",
+    "main.js.map": "/ascii-value-react/static/js/main.ea9d61c2.chunk.js.map",
+    "runtime~main.js": "/ascii-value-react/static/js/runtime~main.5196e199.js",
+    "runtime~main.js.map": "/ascii-value-react/static/js/runtime~main.5196e199.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/ascii-value-react/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/ascii-value-react/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/ascii-value-react/index.html",
+    "precache-manifest.26aae2fa4cc87cd9cd1852b375c58824.js": "/ascii-value-react/precache-manifest.26aae2fa4cc87cd9cd1852b375c58824.js",
+    "service-worker.js": "/ascii-value-react/service-worker.js",
+    "static/css/main.1b5cad32.chunk.css.map": "/ascii-value-react/static/css/main.1b5cad32.chunk.css.map",
+    "static/media/logo.svg": "/ascii-value-react/static/media/logo.5d5d9eef.svg"
+  }
+}
