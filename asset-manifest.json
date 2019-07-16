@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ascii-value-react/static/css/main.435e4fa8.chunk.css",
-    "main.js": "/ascii-value-react/static/js/main.50fad2fb.chunk.js",
-    "main.js.map": "/ascii-value-react/static/js/main.50fad2fb.chunk.js.map",
+    "main.css": "/ascii-value-react/static/css/main.3ea19e7e.chunk.css",
+    "main.js": "/ascii-value-react/static/js/main.ac585004.chunk.js",
+    "main.js.map": "/ascii-value-react/static/js/main.ac585004.chunk.js.map",
     "runtime~main.js": "/ascii-value-react/static/js/runtime~main.5196e199.js",
     "runtime~main.js.map": "/ascii-value-react/static/js/runtime~main.5196e199.js.map",
-    "static/js/2.e703e8cc.chunk.js": "/ascii-value-react/static/js/2.e703e8cc.chunk.js",
-    "static/js/2.e703e8cc.chunk.js.map": "/ascii-value-react/static/js/2.e703e8cc.chunk.js.map",
+    "static/js/2.dfb0cf60.chunk.js": "/ascii-value-react/static/js/2.dfb0cf60.chunk.js",
+    "static/js/2.dfb0cf60.chunk.js.map": "/ascii-value-react/static/js/2.dfb0cf60.chunk.js.map",
     "index.html": "/ascii-value-react/index.html",
-    "precache-manifest.2061603054e981907804d4368832d6c2.js": "/ascii-value-react/precache-manifest.2061603054e981907804d4368832d6c2.js",
+    "precache-manifest.a78dbd1b9eaee8ad5ce0385e2156bacb.js": "/ascii-value-react/precache-manifest.a78dbd1b9eaee8ad5ce0385e2156bacb.js",
     "service-worker.js": "/ascii-value-react/service-worker.js",
-    "static/css/main.435e4fa8.chunk.css.map": "/ascii-value-react/static/css/main.435e4fa8.chunk.css.map"
+    "static/css/main.3ea19e7e.chunk.css.map": "/ascii-value-react/static/css/main.3ea19e7e.chunk.css.map",
+    "static/media/github-mark.svg": "/ascii-value-react/static/media/github-mark.121398c0.svg"
   }
 }
