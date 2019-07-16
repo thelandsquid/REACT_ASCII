@@ -22,6 +22,14 @@ html{
   background-color:#708090;
   background-size: 64px 128px; */
 }
+.App a{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 50px;
+  margin:12px;
+  transition: all 100ms ease-in;
+}
 #ascii{
   font-size: 12vw;
   transition: all 200ms ease-in;
@@ -62,5 +70,9 @@ html{
   #info-block-container {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
+  }
+  .App a{
+    width:20px;
+    margin: 6px;
   }
 }

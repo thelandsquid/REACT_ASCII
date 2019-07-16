@@ -1,4 +1,5 @@
 import React from 'react';
+import github_mark from './github-mark.svg';
 import {InfoBlock} from './InfoBlock';
 import './App.css';
 
@@ -40,6 +41,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <head><link href="https://fonts.googleapis.com/css?family=Bahianita&display=swap" rel="stylesheet"></link></head>
+          <a href="https://github.com/thelandsquid/ascii-value-react">
+            <img src={github_mark} alt="Github Logo"/>
+          </a>
           <div id="ascii">
             {this.state.pressed}
           </div>
